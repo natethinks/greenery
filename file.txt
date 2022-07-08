@@ -1,1 +1,1 @@
-Here there be tygers.
+You can tell how far we have to go, when FORTRAN is the language of supercomputers. -- Steven Feiner
